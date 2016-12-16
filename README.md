@@ -1,6 +1,14 @@
 # Deep-tutorials
 A curated list of tutorial slides from conferences including NIPS, ICLR, ICML, and more. Also resources from Deep Learning Summer School would be included. Online lectures and journals are all informative, however these tutorials are also much valuable. Reading all state-of-the-art papers and news of machine learning is difficult. With these tutorials, I can grasp ideas from papers more easily.
 
+## Table of Contents
+- [Unsupervised Learning](#unsupervised-learning)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Computer Vision](#computer-vision)
+- [NLP](#nlp)
+- [Algorithms and Mathematics](#algorithms-and-mathematics)
+- [Implementations](#implementations)
+- [MISC](#misc)
 
 ## Unsupervised Learning
 * [Introduction to Generative Adversarial Networks](http://www.iangoodfellow.com/slides/2016-12-9-gans.pdf)
@@ -62,7 +70,7 @@ A curated list of tutorial slides from conferences including NIPS, ICLR, ICML, a
   * Edward Grefenstette, Deep Learning Summer School 2016
   
 
-## Algorithms & Mathematics
+## Algorithms and Mathematics
 * [Towards Biologically Plausible Deep Learning](http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf)
   * Yoshua Bengio, NIPS 2016
 * [Higher-order Factorization Machines](http://www.mblondel.org/talks/mblondel-stair-2016-09.pdf)
