@@ -75,13 +75,13 @@ A curated list of tutorial slides from conferences including NIPS, ICLR, ICML, a
   * Hugo Larochelle, Bay Area DL School 2016
 * [Recent Advances in Non-Convex Optimization](http://newport.eecs.uci.edu/anandkumar/slides/icml2016-tutorial.pdf)
   * Anima Anandkumar, ICML 2016
-* Stochastic Gradient Methods for Large-Scale Machine Learning [part1](http://icml.cc/2016/tutorials/part-1.pdf)[part2](http://icml.cc/2016/tutorials/part-2.pdf)[part3](http://icml.cc/2016/tutorials/part-3.pdf)
+* Stochastic Gradient Methods for Large-Scale Machine Learning [[part1]](http://icml.cc/2016/tutorials/part-1.pdf)[[part2]](http://icml.cc/2016/tutorials/part-2.pdf)[[part3]](http://icml.cc/2016/tutorials/part-3.pdf)
   * Leon Buttou, Frank E. Curtis, Jorge Nocedal, ICML 2016
-* Online Convex Optimization, A Game-Theoretic Approach to Learning [part1](http://www.cs.princeton.edu/~ehazan/tutorial/OCO-tutorial-part1.pdf)[part2](http://www.cs.princeton.edu/~ehazan/tutorial/OCO-tutorial-part2.pdf)
+* Online Convex Optimization, A Game-Theoretic Approach to Learning [[part1]](http://www.cs.princeton.edu/~ehazan/tutorial/OCO-tutorial-part1.pdf)[[part2]](http://www.cs.princeton.edu/~ehazan/tutorial/OCO-tutorial-part2.pdf)
   * Elad Hazan, Satyen Kale, ICML 2016
 * [Rigorous Data Dredging: Theory and Tools for Adaptive Data Analysis](http://www.cis.upenn.edu/~aaroth/Papers/icmltutorial.pptx)
   * Moritz Hardt, Aaron Roth, ICML 2016
-* Graph Sketching, Streaming, and Space-Efficient Optimization [part1](http://icml.cc/2016/tutorials/16-icml-part1.pdf)[part2](http://icml.cc/2016/tutorials/16-icml-part2.pdf)
+* Graph Sketching, Streaming, and Space-Efficient Optimization [[part1]](http://icml.cc/2016/tutorials/16-icml-part1.pdf)[[part2]](http://icml.cc/2016/tutorials/16-icml-part2.pdf)
   * Sudipto Guha, Andrew McGregor, ICML 2016
 * [Causal Inference for Observational Studies](http://www.cs.nyu.edu/~shalit/slides.pdf)
   * David Sontag, Uri Shalit, ICML 2016
@@ -92,7 +92,7 @@ A curated list of tutorial slides from conferences including NIPS, ICLR, ICML, a
 
 
 ## Implementations
-* Theano Tutorial [BA](https://github.com/lamblin/bayareadlschool)[DLSS](https://github.com/mila-udem/summerschool2016/raw/master/theano/course/intro_theano.pdf)
+* Theano Tutorial [[BA]](https://github.com/lamblin/bayareadlschool)[[DLSS]](https://github.com/mila-udem/summerschool2016/raw/master/theano/course/intro_theano.pdf)
   * Pascal Lamblin, Bay Area DL School, Deep Learning Summer School, 2016
 * [TensorFlow Tutorial](https://github.com/sherrym/tf-tutorial/raw/master/DeepLearningSchool2016.pdf)
   * Sherry Moore, Bay Area DL School 2016
