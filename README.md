@@ -1,5 +1,5 @@
 # Deep-tutorials
-A collection of tutorials from Deep Learning conferences.
+A curated list of tutorial slides from conferences including NIPS, ICLR, ICML, and more. Also resources from Deep Learning Summer School would be included. Online lectures and journals are all informative, however these tutorials are also much valuable. Reading all state-of-the-art papers and news of machine learning is difficult. With these tutorials, I can grasp ideas from papers more easily.
 
 
 ## Unsupervised Learning
@@ -15,7 +15,8 @@ A collection of tutorials from Deep Learning conferences.
   * Yann LeCun, NIPS 2016
 * [Variational Inference: Foundations and Modern Methods](http://www.cs.columbia.edu/~blei/talks/2016_NIPS_VI_tutorial.pdf)
   * David Blei, Rajesh Ranganath, Shakir Mohamed, NIPS 2016
-<br>
+
+
 ## Reinforcement Learning
 * [Deep Reinforcement Learning through Policy Optimization](https://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
   * Pieter Abbeel, John Schulman, NIPS 2016
@@ -23,7 +24,8 @@ A collection of tutorials from Deep Learning conferences.
   * Miriam Bellver, Xavier Giroi Niento, Ferran Marques, Jordi Torres, NIPS 2016
 * [The Nuts and Bolts of Deep RL Research](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
   * John Schulman, NIPS 2016
-<br>
+
+
 ## Algorithms & Mathematics
 * [Towards Biologically Plausible Deep Learning](http://www.iro.umontreal.ca/~bengioy/talks/Brains+Bits-NIPS2016Workshop.pptx.pdf)
   * Yoshua Bengio, NIPS 2016
@@ -31,7 +33,8 @@ A collection of tutorials from Deep Learning conferences.
   * Mathieu Blondel, NIPS 2016
 * [Nuts and Bolts of Building AI Applications Using Deep Learning](https://www.dropbox.com/s/dyjdq1prjbs8pmc/NIPS2016%20-%20Pages%202-6%20(1).pdf)
   * Andrew Ng, NIPS 2016
-<br>
+
+
 ## MISC
 * [Crowdsourcing: Beyond Label Generation](http://www.jennwv.com/projects/crowdtutorial/crowdslides.pdf)
   * Jenn Wortman Vaughan, NIPS 2016
